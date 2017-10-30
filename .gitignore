@@ -1,4 +1,4 @@
-mutput-virtualbox-iso
+output-virtualbox-iso
 packer_cache
 *.vmdk
 *.ovf
